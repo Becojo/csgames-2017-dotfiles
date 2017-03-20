@@ -1,0 +1,14 @@
+keyring.org.gpg
+/backups
+/saves
+*.elc
+session.*
+*~
+.DS_Store
+/url
+projectile-bookmarks.eld
+projectile.cache
+auto-save-list
+/el-get
+/elpa
+server

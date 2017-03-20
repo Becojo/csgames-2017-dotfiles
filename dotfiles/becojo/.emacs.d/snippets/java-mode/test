@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: test
+# key: test
+# --
+public void test${1:Case}() throws Exception {
+    $0
+}

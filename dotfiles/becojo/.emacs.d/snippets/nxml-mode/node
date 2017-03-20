@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: node
+# key: node
+# binding: direct-keybinding
+# --
+<node pkg="$1" name="$2" type="$2.py">
+  $0
+</node>
